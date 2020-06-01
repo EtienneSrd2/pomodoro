@@ -3,8 +3,11 @@ body
     background: url(clock.png) no-repeat;
     background-position-x: -3%;
     background-position-y: 115%;
-
+    background-color: #2c3e50;
+    font-family: 'Satisfy', cursive;
 }
+
+
 
 div, p
 {
@@ -12,11 +15,7 @@ div, p
     font-family: sans-serif;
 }
 
-body
-{
-    background-color: #3d3d3d;
-    font-family: 'Satisfy', cursive;
-}
+
 
 h1
 {
@@ -33,7 +32,7 @@ section
     width: 250px;
     height: 400px;
     color: white;
-    background-color: #2b2b2b;
+    background-color: #7f8c8d;
 }
 
 button
@@ -58,19 +57,19 @@ button:hover
 
 #start:hover
 {
-    background-color: #8bf74d;
+    background-color: #27ae60;
     color: white; 
 }
 
 #btn2:hover
 {
-    background-color: #f74471;
+    background-color: #c0392b;
     color: white; 
 }
 
 #reset:hover
 {
-    background-color: #5bc0fa;
+    background-color: #2980b9;
     color: white; 
 }
 
